@@ -1,7 +1,13 @@
 # CodesynthesisXMLReader
 XML-Reader for language C++ - based on XSD Code Generator
 
-Procedure to build and install:
+## Whats the cool thing about it? Lets see...
+
+Check this out and you know what I mean.
+
+http://www.codesynthesis.com/products/xsd/
+
+## Procedure to build and install:
 * Install Conan ( Package-Manager for C++) https://www.conan.io/
 
 Folder structure:
@@ -21,3 +27,6 @@ To start:
 
 * Go to the Project.exe you build before. Copy the xerces-c*.dll to the folder. (Should be somewhere in your system because conan downloaded it previously)
 * type: `Project.exe` Path to `CodesynthesisXML\CodesynthesisXML\config\hello.xml`
+
+
+# Have Fun !!

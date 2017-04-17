@@ -19,7 +19,7 @@ Folder structure:
 * Change dir to `buildFolder`
 * type `conan install ..\CodesynthesisXML` --build missing  -g txt
 
-Conan should fetch the dependencies to like `xerces-c`. After successful installation of all dependencies.
+Conan should fetch the dependencies to like `xerces-c`. After successful installation of all dependencies
 
 * type `conan build ..\CodesynthesisXML`. Software should start a build. Thats it.
 

@@ -1,5 +1,5 @@
 # CodesynthesisXMLReader
-XML-Reader for language C++ - based on XSD Code Generator
+XML-Reader for language C++ based on XSD Code Generator - Example 
 
 ## Whats the cool thing about it? Lets see...
 

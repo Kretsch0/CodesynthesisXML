@@ -4,7 +4,7 @@ import os
 class ConanComponent(ConanFile):
     name = "CodesynthesisXML"
     version = "1.0"
-    url = "NotAvailable"
+    url = "https://github.com/Kretsch0/CodesynthesisXML"
     license = "MIT"
     settings = "os", "compiler", "build_type", "arch"
     generators = "cmake"

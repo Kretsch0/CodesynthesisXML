@@ -3,7 +3,7 @@ XML-Reader for language C++ based on XSD Code Generator - Example
 
 ## Whats the cool thing about it? Lets see...
 
-Check this out and you know what I mean.
+Check this out:
 
 http://www.codesynthesis.com/products/xsd/
 
